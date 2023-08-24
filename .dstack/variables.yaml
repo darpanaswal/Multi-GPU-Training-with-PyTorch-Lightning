@@ -1,0 +1,7 @@
+variables:
+  train-mnist:
+    gpu: 1
+    batch_size: 64
+    test_batch_size: 1000
+    epochs: 1
+    lr: 1.0
